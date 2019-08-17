@@ -37,6 +37,7 @@ function leftArrow() {
    }
 }
 
+
 /* open center figure in separate window */
 function zoomFig() {
    
